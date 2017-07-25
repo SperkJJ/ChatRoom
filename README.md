@@ -3,4 +3,4 @@
 服务端使用方法
 go Server.go port
 客户端使用方法
-go run Clent.go ip:prot
+go run Client.go ip:prot

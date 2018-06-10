@@ -2,9 +2,6 @@
  * 基于Go语言的聊天室-客户端程序
  **/
 package main  
-
-
-
 import(  
     "fmt"  
     "os"  

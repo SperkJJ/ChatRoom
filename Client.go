@@ -1,8 +1,12 @@
 /**
  * 基于Go语言的聊天室-客户端程序
  **/
+<<<<<<< HEAD
 package main 
 
+=======
+package main  
+>>>>>>> test2
 import(  
     "fmt"  
     "os"  
